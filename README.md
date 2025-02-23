@@ -12,7 +12,7 @@
 This data analysis project aims to provide insights assess the profitability of their loan portfolios by analysing data related to interest income, loan origination costs, default rates, and collection efforts.
 
 ![Summary](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Bank%20Loan%20Report%20Summary.PNG)
-![Overview](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Bank%20Loan%20Report%20Details.PNG)
+![Overview](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Bank%20Loan%20Overview%20Report.PNG)
 ![Details](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Bank%20Loan%20Report%20Details.PNG)
 
 
@@ -20,6 +20,7 @@ This data analysis project aims to provide insights assess the profitability of 
 ### Data Sources
 
 Bank Loan: The primary dataset used for this analysis is the "financial_loan_final.csv" file, containing detailed information about the loan lend by the company to its customer
+- [Download here](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/financial_loan_final.csv)
 
 ### Tools
 
@@ -48,6 +49,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 ### Data Analysis
 
 Include some interesting code/features worked with
+  - [Download here](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/SQLQuery.sql)
 
 ```sql
 SELECT * FROM table1
