@@ -27,7 +27,7 @@ Bank Loan: The primary dataset used for this analysis is the "financial_loan_fin
 - Excel - Data Cleaning
 - SQL Server - Data Analysis
 - Looker Studio - Creating reports
-    [Looker Studio Report here](https://lookerstudio.google.com/s/mb-A78YTzTk)
+   - [Looker Studio Report here](https://lookerstudio.google.com/s/mb-A78YTzTk)
 
 ### Data Cleaning/Preparation
 
