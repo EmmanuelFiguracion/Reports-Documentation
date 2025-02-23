@@ -9,7 +9,7 @@
 ### Project Overview
 ---
 
-This data analysis project aims to provide insights and assess the profitability of their loan portfolios by analysing data related to interest income, loan origination costs, default rates, and collection efforts.
+This data analysis project aims to provide exloratory analysis to assess the profitability of bank loan portfolios by analysing data related to loan application, funded amount, recieved amount(payment), interest rate and debt to income ratio.
 
 ![Summary](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Report%20Summary_.PNG)
 ![Overview](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Report%20Overview.PNG)
