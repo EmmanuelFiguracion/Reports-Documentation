@@ -9,7 +9,7 @@
 ### Project Overview
 ---
 
-This data analysis project aims to provide insights assess the profitability of their loan portfolios by analysing data related to interest income, loan origination costs, default rates, and collection efforts.
+This data analysis project aims to provide insights and assess the profitability of their loan portfolios by analysing data related to interest income, loan origination costs, default rates, and collection efforts.
 
 ![Summary](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Bank%20Loan%20Report%20Summary.PNG)
 ![Overview](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Bank%20Loan%20Overview%20Report.PNG)
@@ -47,11 +47,11 @@ EDA Exploratory data analysis involved exploring the bank loan data to answer ke
 	- Average Debt to income ratio?
 	- Good Loan percentage vs Bad Loan?
 	- Average Debt to income ratio?
- - What is Total Loan Application trend by month in past two year
- - What is the Top 10 state for loan
- - Which employment lenght has the highest loan application
+ - What is Total Funded Amount trend by month in past two year
+ - What is the Top 10 state for Funded Amount
+ - Which employment lenght has the highest Funded Amount
  - What mostly is the loan purpose taking the loan
- - What term is the loan application mostly
+ - What term is the Funded Amount mostly
  - Who among the homeowners mostly taking the loan
 
 ### Data Analysis
@@ -265,37 +265,16 @@ ORDER BY purpose
 ### Results/Findings
 
 The analysis results are summarized as follows:
-1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-2. Product Category A is the best-performing category in terms of sales and revenue.
-3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+1. The Bank overall loan profit have been steadily increasing over the past year
+2. People who taken more loan are primary use for debt consolidation and credit card use in mortgage.
+3. Customer who has longest job tenure has most likely to take the loan and not get default
+4. CA>NY>TX>FL are the top 4 State contributes to the higher loan amount.
 
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
-- Invest in marketing and promotions during peak sales seasons to maximize revenue.
-- Focus on expanding and promoting products in Category A.
-- Implement a customer segmentation strategy to target high-LTV customers effectively.
+- Connect/offer a person who belong to category A that have completed or nearly completed his loan to take another loan with lower or same interest rate.
+- Focus on promoting loans in other cities with lower funding amount
 
-### Limitations
 
-I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue.
 
-### References
-
-1. SQL for Businesses by werty.
-2. [Stack Overflow](https://stack.com)
-
-😄
-
-💻
-
-|Heading1|Heading2|
-|--------|--------|
-|Content|Content2|
-|Python|SQL|
-
-`column_1`
-
-**bold**
-
-*italic*
