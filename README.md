@@ -13,17 +13,18 @@ This data analysis project aims to provide insights assess the profitability of 
 
 ![Summary](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Bank%20Loan%20Report%20Summary.PNG)
 ![Overview](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Bank%20Loan%20Report%20Details.PNG)
-![Details](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Summary.pd)
+![Details](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Bank%20Loan%20Report%20Details.PNG)
 
 
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
+Bank Loan: The primary dataset used for this analysis is the "financial_loan_final.csv" file, containing detailed information about the loan lend by the company to its customer
 
 ### Tools
 
 - Excel - Data Cleaning
+  - [Download here](https://microsoft.com)
   - [Download here](https://microsoft.com)
 - SQL Server - Data Analysis
 - PowerBI - Creating reports
