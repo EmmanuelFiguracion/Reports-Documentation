@@ -25,35 +25,43 @@ Bank Loan: The primary dataset used for this analysis is the "financial_loan_fin
 ### Tools
 
 - Excel - Data Cleaning
-  - [Download here](https://microsoft.com)
-  - [Download here](https://microsoft.com)
 - SQL Server - Data Analysis
-- PowerBI - Creating reports
-
+- Looker Studio - Creating reports
+    [Looker Studio Report here](https://lookerstudio.google.com/s/mb-A78YTzTk)
 
 ### Data Cleaning/Preparation
 
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
-2. Handling missing values.
+2. Data profilling.
 3. Data cleaning and formatting.
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the sales data to answer key questions, such as:
-
-- What is the overall sales trend?
-- Which products are top sellers?
-- What are the peak sales periods?
+EDA Exploratory data analysis involved exploring the bank loan data to answer key questions, such as:
+ - What is the MTD and MoM 
+	- Total Loan Application?
+	- Total Funded Amount?
+	- Total Amount Recieved?
+	- Average Interest Rate?
+	- Average Debt to income ratio?
+	- Good Loan percentage vs Bad Loan?
+	- Average Debt to income ratio?
+ - What is Total Loan Application trend by Month in past two year
+ - What is the Top 10 state for loan
+ - Which employment leght has the highest loan application
+ - What mostly is the loan purpose taking the loan
+ - What term is the loan application
+ - Who among the home owner mostly taking the loan
 
 ### Data Analysis
 
-Include some interesting code/features worked with
+In data analysis the values are further verified using SQL Server Management Studio to check the correctness of data prior applying to the reports
+
   - [Download here](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/SQLQuery.sql)
 
 ```
 -----Bank Loan Analysis---------SQL verification----------------------------------
-
 
 --Total Loan Applications
 SELECT COUNT(id) AS Total_Applications FROM bank_loan_data
