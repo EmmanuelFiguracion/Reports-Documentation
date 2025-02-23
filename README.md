@@ -19,7 +19,7 @@ This data analysis project aims to provide exloratory analysis to assess the pro
 
 ### Data Sources
 
-Bank Loan: The primary dataset used for this analysis is the "financial_loan_final.csv" file, containing detailed information about the loan lend by the company to its customer
+Bank Loan: The primary dataset used for this analysis is the "financial_loan_final.csv" file, containing detailed information about the loan lend by the bank to its customer
 - [Download here](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/financial_loan_final.csv)
 
 ### Tools
