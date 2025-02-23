@@ -11,8 +11,8 @@
 
 This data analysis project aims to provide insights and assess the profitability of their loan portfolios by analysing data related to interest income, loan origination costs, default rates, and collection efforts.
 
-![Summary](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Report%20Overview.PNG)
-![Overview](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Report%20Summary_.PNG)
+![Summary](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Report%20Summary_.PNG)
+![Overview](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Report%20Overview.PNG)
 ![Details](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/Report%20Details.PNG)
 
 
