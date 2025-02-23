@@ -39,26 +39,26 @@ In the initial data preparation phase, we performed the following tasks:
 ### Exploratory Data Analysis
 
 EDA Exploratory data analysis involved exploring the bank loan data to answer key questions, such as:
- - What is the MTD and MoM 
-	- Total Loan Application?
-	- Total Funded Amount?
-	- Total Amount Recieved?
+ - What is the Total, MTD and MoM for
+	- Loan Application?
+	- Funded Amount?
+	- Amount Recieved?
 	- Average Interest Rate?
 	- Average Debt to income ratio?
 	- Good Loan percentage vs Bad Loan?
 	- Average Debt to income ratio?
- - What is Total Loan Application trend by Month in past two year
+ - What is Total Loan Application trend by month in past two year
  - What is the Top 10 state for loan
- - Which employment leght has the highest loan application
+ - Which employment lenght has the highest loan application
  - What mostly is the loan purpose taking the loan
- - What term is the loan application
- - Who among the home owner mostly taking the loan
+ - What term is the loan application mostly
+ - Who among the homeowners mostly taking the loan
 
 ### Data Analysis
 
 In data analysis the values are further verified using SQL Server Management Studio to check the correctness of data prior applying to the reports
 
-  - [Download here](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/SQLQuery.sql)
+  - [SQL Scripts Download here](https://github.com/EmmanuelFiguracion/Reports-Documentation/blob/main/SQLQuery.sql)
 
 ```
 -----Bank Loan Analysis---------SQL verification----------------------------------
